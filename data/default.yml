@@ -56,14 +56,14 @@ pages:
       options:
         - primary # 農・林・畜産・水産業
         - food_processing # 食品, 飲料, たばこ
-        - car_manufacturing # 輸送用機器(部品)製造
-        - electric_manufacturing # 電子機器/部品製造
         - wood_furniture # 木材, 木製品, 家具
         - textile # 繊維, 衣料, 皮
         - chemical_paper # 化学, パルプ, 紙, 石油, プラスチック, ゴム 
-        - mining_ceramic # 鉱業, 砂, 炭, 石炭, 石材, 窯業
+        - mining_ceramic # 鉱業, 砂, 石炭, 石材, 窯業
         - print # 印刷, 製本
         - toy # 玩具, グッズ
+        - car_manufacturing # 輸送用機器(部品)製造
+        - electric_manufacturing # 電子機器/部品製造
         - other_manufacturing # その他製造業
         - maintenance_repair # 設備保全, 機械修理
         - car_sell # 輸送用機器販売/整備
@@ -75,6 +75,8 @@ pages:
         - computer # 電気通信, 情報技術
         - advertising # グラフィック, 音楽, 広告, 娯楽
         - journalist_writer # ジャーナリスト, 作家, 歴史, 議会
+        - sports_fitness # スポーツ, ジム, フィットネス
+        - animal # 獣医, ペットショップ, 飼育員, 馬術/競馬
         - nursery_caregiver # 保育, 介護
         - medical # 医師, 看護師, 医療
         - finance # 金融, 保険
@@ -85,7 +87,7 @@ pages:
         - food # 外食
         - officer # 経理, 総務, 一般事務
         - police_firefighter_soldier # 警察, 消防, 国防, 軍隊
-        - public_officer # その他公務員, NPO/NGO職員
+        - public_officer # その他公務員/準公務員, NPO/NGO職員
         - other_service # その他サービス/販売業
         - student # 学生
         - null # 回答しない
