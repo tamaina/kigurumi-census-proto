@@ -82,7 +82,7 @@ pages:
         - finance # 金融, 保険
         - law # 法律, 士業
         - education_teacher # 教諭, 教育
-        - wholesale_trade # 卸売, 商社
+        - wholesale_trade # 卸売, 商社, 貿易
         - retail # 小売
         - food # 外食
         - officer # 経理, 総務, 一般事務
