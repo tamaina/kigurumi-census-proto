@@ -85,6 +85,7 @@ pages:
         - wholesale_trade # 卸売, 商社, 貿易
         - retail # 小売
         - food # 外食
+        - security # 警備
         - officer # 経理, 総務, 一般事務
         - police_firefighter_soldier # 警察, 消防, 国防, 軍隊
         - public_officer # その他公務員/準公務員, NPO/NGO職員
