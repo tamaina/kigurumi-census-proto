@@ -76,7 +76,7 @@ pages:
         - advertising # グラフィック, 音楽, 広告, 娯楽
         - journalist_writer # ジャーナリスト, 作家, 歴史, 議会
         - sports_fitness # スポーツ, ジム, フィットネス
-        - animal # 獣医, ペットショップ, 飼育員, 馬術/競馬, 動物
+        - animal # 獣医, 飼育員, ペット, 馬術/競馬
         - nursery_caregiver # 保育, 介護
         - medical # 医師, 看護師, 医療
         - finance # 金融, 保険
