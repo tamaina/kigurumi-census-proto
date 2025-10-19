@@ -55,11 +55,13 @@ pages:
       freeform: true # freeform: trueを書くと、「その他」選択肢を選べるようになり、その他を選択すると自由に記入するフォームが出現する。この回答には`OTHERS:`がプレフィクスされる。
       options:
         - primary # 農・林・畜産・水産業
-        - food_processing # 食品
+        - food_processing # 食品, 飲料, たばこ
         - car_manufacturing # 輸送用機器(部品)製造
-        - mining # 鉱業
-        - textile # 繊維, 衣料
-        - chemical # 化学
+        - electric_manufacturing # 電子機器/部品製造
+        - wood_furniture # 木材, 木製品, 家具
+        - textile # 繊維, 衣料, 皮
+        - chemical_paper # 化学, パルプ, 紙, 石油, プラスチック, ゴム 
+        - mining_ceramic # 鉱業, 砂, 炭, 石炭, 石材, 窯業
         - print # 印刷, 製本
         - toy # 玩具, グッズ
         - other_manufacturing # その他製造業
