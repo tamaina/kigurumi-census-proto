@@ -58,8 +58,9 @@ pages:
         - food_processing # 食品/飲料/たばこ製造
         - wood_furniture # 木材, 木製品, 家具
         - textile # 繊維, 衣料, 皮革
-        - chemical_paper # 化学, パルプ, 紙, 石油, プラスチック, ゴム 
-        - mining_ceramic # 鉱業, 砂, 石炭, 石材, 窯業
+        - oil_paper # パルプ, 紙, 石油, プラスチック, ゴム 
+        - mining_ceramic # 鉱業, 金属, 砂, 石炭, 石材, 窯業
+        - chemical # その他化学工業
         - print # 印刷, 製本
         - toy # 玩具, グッズ
         - car_manufacturing # 輸送用機器(部品)製造
