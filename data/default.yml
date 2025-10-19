@@ -61,11 +61,12 @@ pages:
         - textile # 繊維, 衣料
         - chemical # 化学
         - other_manufacturing # その他製造業
+        - maintenance_repair # 設備保全, 機械修理
         - car_sell # 輸送用機器販売/整備
         - freight_warehouse # 郵便, 配送, 貨物輸送, 倉庫
         - transportation # その他運輸業
         - infrastructure # 電力, 水道, ガス
-        - construction # 土木, 建設, 建築設計, 設備保全
+        - construction # 土木, 建設, 建築設計
         - computer # 電気通信, 情報技術
         - advertising # グラフィック, 音楽, 広告, 娯楽
         - journalist_writer # ジャーナリスト, 作家
