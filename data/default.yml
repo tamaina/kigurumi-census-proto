@@ -55,7 +55,7 @@ pages:
       freeform: true # freeform: trueを書くと、「その他」選択肢を選べるようになり、その他を選択すると自由に記入するフォームが出現する。この回答には`OTHERS:`がプレフィクスされる。
       options:
         - primary # 農・林・畜産・水産業
-        - food_processing # 食品, 飲料, たばこ
+        - food_processing # 食品/飲料/たばこ製造
         - wood_furniture # 木材, 木製品, 家具
         - textile # 繊維, 衣料, 皮革
         - chemical_paper # 化学, パルプ, 紙, 石油, プラスチック, ゴム 
