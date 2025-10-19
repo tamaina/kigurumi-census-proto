@@ -72,7 +72,7 @@ pages:
         - infrastructure # 電力, 水道, ガス
         - freight_warehouse # 郵便, 配送, 貨物輸送, 倉庫
         - transportation # その他運輸業
-        - geoscience_space # 気象, 地質, 天体, 宇宙
+        - geoscience_space # 気象, 空気, 地質, 水質, 天体, 宇宙
         - computer # 電気通信, 情報技術
         - advertising # グラフィック, 音楽, 広告, 娯楽
         - journalist_writer # ジャーナリスト, 作家, 歴史, 議会
