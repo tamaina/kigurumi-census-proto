@@ -91,5 +91,5 @@ pages:
         - police_firefighter_soldier # 警察, 消防, 国防, 軍隊
         - public_officer # その他公務員/準公務員, NPO/NGO職員
         - other_service # その他サービス/販売業
-        - student # 学生
+        - student # 生徒, 学生
         - null # 回答しない
