@@ -60,6 +60,8 @@ pages:
         - mining # 鉱業
         - textile # 繊維, 衣料
         - chemical # 化学
+        - print # 印刷, 製本
+        - toy # 玩具, グッズ
         - other_manufacturing # その他製造業
         - maintenance_repair # 設備保全, 機械修理
         - car_sell # 輸送用機器販売/整備
