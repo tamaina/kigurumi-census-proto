@@ -67,7 +67,7 @@ pages:
         - other_manufacturing # その他製造業
         - car_sell # 輸送用機器販売/整備
         - maintenance_repair # 設備保全, 機械修理, 検査
-        - waste # 廃棄物処理, リサイクル, リユース
+        - waste # 廃棄物, リサイクル, リユース
         - construction # 土木, 建設, 測量, 建築設計
         - infrastructure # 電力, 水道, ガス
         - freight_warehouse # 郵便, 配送, 貨物輸送, 倉庫
