@@ -79,9 +79,9 @@ pages:
         - wholesale_trade # 卸売, 商社
         - retail # 小売
         - food # 外食
-        - public_officer # 公務員, NPO/NGO職員
         - officer # 経理, 総務, 一般事務
-        - other_service # その他サービス/販売業
         - police_firefighter_soldier # 警察, 消防, 国防, 軍隊
+        - public_officer # その他公務員, NPO/NGO職員
+        - other_service # その他サービス/販売業
         - student # 学生
         - null # 回答しない
