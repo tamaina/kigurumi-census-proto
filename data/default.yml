@@ -17,15 +17,15 @@ pages:
         - woman
         - others
     - id: age # 年齢層
-      required: true # 必須
+      required: true
       type: number # 数字
       style: integer # 整数
     - id: height # 身長
-      required: true # 必須
+      required: true
       type: number
       style: integer
     - id: weight # 体重
-      required: true # 必須
+      required: true
       type: number
       style: integer
   region:
